@@ -35,7 +35,7 @@ The client wanted to eliminate the repetitive manual process of:
 ## 📸 Screenshots
 
 ### 1. Workflow Diagram (Basic)  
-![Workflow Diagram Basic](docs/basic-workflow.png)
+![Workflow Diagram Basic](docs/basic-workflow)
 
 ### 2. Workflow Diagram (Detailed)  
 ![Workflow Diagram Detailed](docs/detailed-workflow.png)
