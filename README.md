@@ -38,17 +38,17 @@ The client wanted to eliminate the repetitive manual process of:
 ![Workflow Diagram Basic](docs/basic-workflow)
 
 ### 2. Workflow Diagram (Detailed)  
-![Workflow Diagram Detailed](docs/detailed-workflow.png)
+![Workflow Diagram Detailed](docs/detailed-workflow)
 
 ### 3. Filtering Unnecessary WordPress Data  
-![Filtering WordPress Data](docs/filtering-unnecessary-wordpress-data.png)
+![Filtering WordPress Data](docs/filtering-unnecessary-wordpress-data)
 
 ### 4. Prompt for ChatGPT  
-![Prompt for ChatGPT](docs/chatgpt-prompt.png)
+![Prompt for ChatGPT](docs/chatgpt-prompt)
 
 
 ### 5. ngrok Connection  
-![ngrok Connection](docs/ngrok.png)
+![ngrok Connection](docs/ngrok)
 
 ---
 
