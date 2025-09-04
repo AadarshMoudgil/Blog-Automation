@@ -41,15 +41,13 @@ The client wanted to eliminate the repetitive manual process of:
 ![Workflow Diagram Detailed](docs/detailed-workflow.png)
 
 ### 3. Filtering Unnecessary WordPress Data  
-![Filtering WordPress Data](docs/filtering-wp-data.png)
+![Filtering WordPress Data](docs/filtering-unnecessary-wordpress-data.png)
 
 ### 4. Prompt for ChatGPT  
-![Prompt for ChatGPT](docs/prompt-chatgpt.png)
+![Prompt for ChatGPT](docs/chatgpt-prompt.png)
 
-### 5. ChatGPT-Generated Introduction  
-![ChatGPT Generated Intro](docs/chatgpt-intro.png)
 
-### 6. ngrok Connection  
+### 5. ngrok Connection  
 ![ngrok Connection](docs/ngrok.png)
 
 ---
