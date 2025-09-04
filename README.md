@@ -34,6 +34,21 @@ The client wanted to eliminate the repetitive manual process of:
 
 ## 📸 Screenshots
 
+### 1. Workflow Diagram Basic 
+docs/Basic Workflow
+
+### 2. Workflow Diagram Detailed 
+docs/Detailed Workflow
+
+### 3. ChatGPT-Generated Introduction  
+docs/Filtering Unnecessary WordPress Data
+
+### 4. Filtering Unnecessary WordPress Data  
+docs/Prompt for ChatGpt
+
+### 5. ngrok Connection
+docs/ngrok
+
 
 ---
 
